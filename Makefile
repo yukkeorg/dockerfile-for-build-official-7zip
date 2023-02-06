@@ -3,7 +3,6 @@ SEVEN_ZIP_VERSION := 2201
 IMAGE_TAG := build-official-7zip
 CONTAINER_TAG := $(IMAGE_TAG)-$(shell date +%s)
 
-
 all: copy_to_local
 
 copy_to_local: build
