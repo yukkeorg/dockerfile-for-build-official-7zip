@@ -1,5 +1,10 @@
 # Build official 7zip on linux
 
+## Required
+
+* Make
+* Docker
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
