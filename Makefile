@@ -1,6 +1,6 @@
 PROGRAM := 7zz
 FROM_IMAGE_TAG := kinetic
-SEVEN_ZIP_VERSION := 2201
+SEVEN_ZIP_VERSION := 2301
 IMAGE_TAG := build-official-7zip
 CONTAINER_TAG := $(IMAGE_TAG)-$(shell date +%s)
 
